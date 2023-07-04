@@ -1,3 +1,13 @@
 *.csv
 *.dot
 .DS_Store
+*.npy
+/models
+/catboost_info
+/.ipynb_checkpoints
+*.md
+*.log
+*.sqlite
+*.db
+demo*
+index.html
